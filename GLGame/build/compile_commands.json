@@ -1,0 +1,112 @@
+[
+{
+  "directory": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/build",
+  "command": "/usr/bin/clang++  -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/include -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++17 -o CMakeFiles/GLGame.dir/src/graphics/batchRenderer2D.cpp.o -c /Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/src/graphics/batchRenderer2D.cpp",
+  "file": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/src/graphics/batchRenderer2D.cpp"
+},
+{
+  "directory": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/build",
+  "command": "/usr/bin/clang++  -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/include -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++17 -o CMakeFiles/GLGame.dir/src/graphics/batchRendererCube.cpp.o -c /Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/src/graphics/batchRendererCube.cpp",
+  "file": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/src/graphics/batchRendererCube.cpp"
+},
+{
+  "directory": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/build",
+  "command": "/usr/bin/clang++  -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/include -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++17 -o CMakeFiles/GLGame.dir/src/graphics/stb_image.cpp.o -c /Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/src/graphics/stb_image.cpp",
+  "file": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/src/graphics/stb_image.cpp"
+},
+{
+  "directory": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/build",
+  "command": "/usr/bin/clang++  -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/include -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++17 -o CMakeFiles/GLGame.dir/src/graphics/texQuadBatch.cpp.o -c /Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/src/graphics/texQuadBatch.cpp",
+  "file": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/src/graphics/texQuadBatch.cpp"
+},
+{
+  "directory": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/build",
+  "command": "/usr/bin/clang++  -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/include -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++17 -o CMakeFiles/GLGame.dir/src/runner/game.cpp.o -c /Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/src/runner/game.cpp",
+  "file": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/src/runner/game.cpp"
+},
+{
+  "directory": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/build",
+  "command": "/usr/bin/clang++  -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/include -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++17 -o CMakeFiles/GLGame.dir/src/runner/main.cpp.o -c /Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/src/runner/main.cpp",
+  "file": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/src/runner/main.cpp"
+},
+{
+  "directory": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/build",
+  "command": "/usr/bin/clang  -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/include -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -o CMakeFiles/GLGame.dir/src/graphics/glad.c.o -c /Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/src/graphics/glad.c",
+  "file": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/src/graphics/glad.c"
+},
+{
+  "directory": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/build/glfw-3.3.7/src",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/include -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/build/glfw-3.3.7/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -fPIC -Wall -std=gnu99 -o CMakeFiles/glfw.dir/context.c.o -c /Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src/context.c",
+  "file": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src/context.c"
+},
+{
+  "directory": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/build/glfw-3.3.7/src",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/include -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/build/glfw-3.3.7/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -fPIC -Wall -std=gnu99 -o CMakeFiles/glfw.dir/init.c.o -c /Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src/init.c",
+  "file": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src/init.c"
+},
+{
+  "directory": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/build/glfw-3.3.7/src",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/include -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/build/glfw-3.3.7/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -fPIC -Wall -std=gnu99 -o CMakeFiles/glfw.dir/input.c.o -c /Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src/input.c",
+  "file": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src/input.c"
+},
+{
+  "directory": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/build/glfw-3.3.7/src",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/include -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/build/glfw-3.3.7/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -fPIC -Wall -std=gnu99 -o CMakeFiles/glfw.dir/monitor.c.o -c /Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src/monitor.c",
+  "file": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src/monitor.c"
+},
+{
+  "directory": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/build/glfw-3.3.7/src",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/include -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/build/glfw-3.3.7/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -fPIC -Wall -std=gnu99 -o CMakeFiles/glfw.dir/vulkan.c.o -c /Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src/vulkan.c",
+  "file": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src/vulkan.c"
+},
+{
+  "directory": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/build/glfw-3.3.7/src",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/include -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/build/glfw-3.3.7/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -fPIC -Wall -std=gnu99 -o CMakeFiles/glfw.dir/window.c.o -c /Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src/window.c",
+  "file": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src/window.c"
+},
+{
+  "directory": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/build/glfw-3.3.7/src",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/include -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/build/glfw-3.3.7/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -fPIC -Wall -std=gnu99 -o CMakeFiles/glfw.dir/cocoa_init.m.o -c /Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src/cocoa_init.m",
+  "file": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src/cocoa_init.m"
+},
+{
+  "directory": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/build/glfw-3.3.7/src",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/include -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/build/glfw-3.3.7/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -fPIC -Wall -std=gnu99 -o CMakeFiles/glfw.dir/cocoa_joystick.m.o -c /Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src/cocoa_joystick.m",
+  "file": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src/cocoa_joystick.m"
+},
+{
+  "directory": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/build/glfw-3.3.7/src",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/include -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/build/glfw-3.3.7/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -fPIC -Wall -std=gnu99 -o CMakeFiles/glfw.dir/cocoa_monitor.m.o -c /Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src/cocoa_monitor.m",
+  "file": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src/cocoa_monitor.m"
+},
+{
+  "directory": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/build/glfw-3.3.7/src",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/include -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/build/glfw-3.3.7/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -fPIC -Wall -std=gnu99 -o CMakeFiles/glfw.dir/cocoa_window.m.o -c /Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src/cocoa_window.m",
+  "file": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src/cocoa_window.m"
+},
+{
+  "directory": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/build/glfw-3.3.7/src",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/include -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/build/glfw-3.3.7/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -fPIC -Wall -std=gnu99 -o CMakeFiles/glfw.dir/cocoa_time.c.o -c /Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src/cocoa_time.c",
+  "file": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src/cocoa_time.c"
+},
+{
+  "directory": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/build/glfw-3.3.7/src",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/include -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/build/glfw-3.3.7/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -fPIC -Wall -std=gnu99 -o CMakeFiles/glfw.dir/posix_thread.c.o -c /Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src/posix_thread.c",
+  "file": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src/posix_thread.c"
+},
+{
+  "directory": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/build/glfw-3.3.7/src",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/include -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/build/glfw-3.3.7/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -fPIC -Wall -std=gnu99 -o CMakeFiles/glfw.dir/nsgl_context.m.o -c /Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src/nsgl_context.m",
+  "file": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src/nsgl_context.m"
+},
+{
+  "directory": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/build/glfw-3.3.7/src",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/include -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/build/glfw-3.3.7/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -fPIC -Wall -std=gnu99 -o CMakeFiles/glfw.dir/egl_context.c.o -c /Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src/egl_context.c",
+  "file": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src/egl_context.c"
+},
+{
+  "directory": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/build/glfw-3.3.7/src",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/include -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src -I/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/build/glfw-3.3.7/src -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -fPIC -Wall -std=gnu99 -o CMakeFiles/glfw.dir/osmesa_context.c.o -c /Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src/osmesa_context.c",
+  "file": "/Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/glfw-3.3.7/src/osmesa_context.c"
+}
+]

@@ -1,0 +1,5 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame -B /Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/cmake-build-debug
+-- Using Cocoa for window creation
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/danielsong/Desktop/Coding/C++/OpenGL/GLGame/cmake-build-debug
